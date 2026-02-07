@@ -1,0 +1,47 @@
+[
+  {
+    "id": "eiffel-tower-tickets",
+    "title": "Eiffel Tower Tickets",
+    "price": 25.00,
+    "originalPrice": 32.00,
+    "image": "/images/eiffel.webp",
+    "description": "Skip the ticket line and ride the lift to the summit. Enjoy breathtaking views over Paris from every level.",
+    "features": [
+      "Free cancellation",
+      "Instant confirm",
+      "Mobile ticket",
+      "Flexible hours"
+    ],
+    "link": "/tickets/eiffel-tower-tickets"
+  },
+  {
+    "id": "louvre-museum-tickets",
+    "title": "Louvre Museum Tickets",
+    "price": 35.00,
+    "originalPrice": 45.00,
+    "image": "/images/louvre.webp",
+    "description": "Explore world-famous art without the wait. See the Mona Lisa and more in the iconic Louvre, home to thousands of timeless masterpieces.",
+    "features": [
+      "Free cancellation",
+      "Instant confirm",
+      "Mobile ticket",
+      "Flexible hours"
+    ],
+    "link": "/tickets/louvre-museum-tickets"
+  },
+  {
+    "id": "seine-river-cruise-tickets",
+    "title": "Seine River Cruise Tickets",
+    "price": 19.99,
+    "originalPrice": 26.00,
+    "image": "/images/cruise.webp",
+    "description": "Glide along the Seine and see Paris from a unique perspective. A relaxing sightseeing cruise with audio guide included.",
+    "features": [
+      "Free cancellation",
+      "Instant confirm",
+      "Mobile ticket",
+      "Flexible hours"
+    ],
+    "link": "/tickets/seine-river-cruise-tickets"
+  }
+]
